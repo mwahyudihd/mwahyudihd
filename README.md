@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Follow me at :
+## 📮 Contact :
 ![https://www.linkedin.com/in/muhammad-wahyudi-hidayatullah/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![wahyudi282828@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### <>I’m excited to continue learning and growing in the tech world. Live is a Code!</>
