@@ -10,7 +10,7 @@ Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics s
 
 
 
-![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahyudihd&theme=blue-green)  ![mwahyudihd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahyudihd&show_icons=true&theme=transparent) 
+![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahyudihd&theme=blue-green)  ![mwahyudihd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahyudihd&show_icons=true&theme=transparent&bg_color=117,245,66&hide_rank=true) 
  
 
 
