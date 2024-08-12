@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, Im M Wahyudi Hidayatullah!
 
+Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics student with a fervent passion for software development. As an avid explorer of the digital realm, I immerse myself in the latest technologies, particularly Flutter for mobile apps and full-stack web development. With an insatiable curiosity and a drive for continuous growth, I’m always on the lookout for new challenges and opportunities to refine my skills in this dynamic tech landscape.
+
+### 🚀 Technologies I Use
+
+- **Frameworks**: [Express.js](https://expressjs.com), [CodeIgniter 4](https://codeigniter.com), [Flutter](https://flutter.dev)
+- **Databases**: [MongoDB](https://www.mongodb.com), [MySQL](https://www.mysql.com)
+- **Programming Languages**: [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [PHP](https://www.php.net), [Dart](https://dart.dev)
+- **Styling**: [Bootstrap](https://getbootstrap.com)
+- **Additional Tools and Technologies**: [EJS](https://www.npmjs.com/package/ejs), [Mongoose](https://mongoosejs.com), [Node Js](https://nodejs.org/en), [Postman](https://www.postman.com), [VsCode](https://code.visualstudio.com/)
 <!--
 **mwahyudihd/mwahyudihd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
