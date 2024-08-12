@@ -1,6 +1,6 @@
 ## 👋 Hi there, Im M Wahyudi Hidayatullah!
 
-Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics student with a fervent passion for software development. As an avid explorer of the digital realm, I immerse myself in the latest technologies, particularly Flutter for mobile apps and full-stack web development. With an insatiable curiosity and a drive for continuous growth, I’m always on the lookout for new challenges and opportunities to refine my skills in this dynamic tech landscape.
+Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics student with a fervent passion for software development. As an avid explorer of the digital realm, I immerse myself in the latest technologies, particularly Full-stack web development and Flutter for mobile apps. With an insatiable curiosity and a drive for continuous growth, I’m always on the lookout for new challenges and opportunities to refine my skills in this dynamic tech landscape.
 
 ### 🚀 Technologies I Use
 
