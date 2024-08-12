@@ -1,5 +1,7 @@
 ## 👋 Hi there, Im M Wahyudi Hidayatullah!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&pause=2000&color=F0DB4F&center=true&random=true&width=500&lines=I'm+a+Full-Stack+Developer%2C;I'm+a+Flutter+Development+Enthusiast%2C;I'm+an+Informatic+Student.)](https://git.io/typing-svg)
+
 Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics student with a fervent passion for software development. As an avid explorer of the digital realm, I immerse myself in the latest technologies, particularly Full-stack web development and Flutter for mobile apps. With an insatiable curiosity and a drive for continuous growth, I’m always on the lookout for new challenges and opportunities to refine my skills in this dynamic tech landscape.
 
 ### 🚀 Technologies I Use
