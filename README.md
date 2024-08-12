@@ -7,8 +7,10 @@ Hello! I’m Muhammad Wahyudi Hidayatullah, a spirited second-year informatics s
 | :-------- |
 | [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,php,dart,python,flutter,expressjs,mongodb,mysql,nodejs,jquery,postman,npm,git,bootstrap,vscode)](https://skillicons.dev)
 ![CodeIgniter 4](https://img.shields.io/badge/Codeigniter-ffffff?style=for-the-badge&logo=Codeigniter&logoColor=red) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![EJS](https://img.shields.io/badge/Ejs-00?style=for-the-badge&logo=Ejs&logoColor=black) ![Mongoose](https://img.shields.io/badge/Mongoose-E34F26?style=for-the-badge&logo=Mongoose&logoColor=white) |
+
+
 |    |    |
-| ![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahyudihd&theme=blue-green) | ![mwahyudihd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahyudihd&show_icons=true&theme=transparent) |
+| ![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahyudihd&theme=blue-green) | ![mwahyudihd's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwahyudihd&show_icons=true&theme=transparent) | Node |
  
 
 
