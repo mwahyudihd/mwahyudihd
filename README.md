@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ## 📮 Contact :
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-wahyudi-hidayatullah/) [![wahyudi282828@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyudi282828@gmail.com)
 
-### <>I’m excited to continue learning and growing in the tech world. Live is a Code!</>
+### <>Live is a Code, Break Down Complexities, Find the Patterns, and Build Solutions.</>
 
