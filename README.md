@@ -3,8 +3,6 @@
 Hello! I’m Wahyudi, a spirited second-year informatics student with a fervent passion for software development. As an avid explorer of the digital realm, I immerse myself in the latest technologies, particularly Full-stack web development and Flutter for mobile apps. With an insatiable curiosity and a drive for continuous growth, I’m always on the lookout for new challenges and opportunities to refine my skills in this dynamic tech landscape.
 
 ## 🚀 Technologies I Use
-| Tech |
-| :-------- |
 | [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,php,dart,python,flutter,expressjs,mongodb,mysql,nodejs,jquery,postman,npm,git,bootstrap,vscode)](https://skillicons.dev) |
 
 ## 📊 Profile Stats
