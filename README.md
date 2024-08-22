@@ -7,6 +7,7 @@ Hello! I’m Wahyudi, a spirited second-year informatics student with a fervent 
  [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,php,dart,python,flutter,expressjs,mongodb,mysql,nodejs,jquery,postman,npm,git,bootstrap,tailwind,vscode)](https://skillicons.dev) 
 
 ## 📊 Profile Stats
+|||
 |                                                                    |                                                                |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwahyudihd&layout=donut&border_color=48ff00&title_color=48ff00&text_color=48ff00&theme=transparent)](https://github.com/mwahyudihd/) | [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mwahyudihd?cardType=github&theme=dark&preferLogin=false)](https://github.com/mwahyudihd) |
  
