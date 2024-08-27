@@ -4,7 +4,7 @@ Hello! I’m Wahyudi, a spirited second-year informatics student with a fervent 
 
 ## 🚀 Technologies I Use
 
- [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,php,dart,python,flutter,expressjs,mongodb,mysql,nodejs,jquery,postman,npm,git,bootstrap,tailwind,vscode)](https://skillicons.dev) 
+ [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,php,dart,python,flutter,expressjs,mongodb,mysql,nodejs,jquery,postman,npm,git,bootstrap,tailwind,vscode,alpinejs)](https://skillicons.dev) 
 
 ## 📊 Profile Stats
 |⚙️|⚙️|
